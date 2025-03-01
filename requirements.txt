@@ -6,3 +6,4 @@ pyperclip
 fpdf
 pandas
 xlsxwriter
+openpyxl
