@@ -1,0 +1,8 @@
+streamlit==1.42.2
+openai
+langchain_openai
+python-dotenv
+pyperclip
+fpdf
+pandas
+xlsxwriter
